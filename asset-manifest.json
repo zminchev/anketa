@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/anketa/static/css/main.f855e6bc.css",
+    "main.js": "/anketa/static/js/main.2e364b9d.js",
+    "static/js/453.a1174531.chunk.js": "/anketa/static/js/453.a1174531.chunk.js",
+    "static/media/image-toilet.png": "/anketa/static/media/image-toilet.2451f1ac67c11011b4d9.png",
+    "static/media/satisfied.png": "/anketa/static/media/satisfied.cdabe13bde0fe5c13701.png",
+    "static/media/not_satisfied.png": "/anketa/static/media/not_satisfied.89b6328124a451846695.png",
+    "static/media/meh.png": "/anketa/static/media/meh.19c43f6766a5b0c60f99.png",
+    "static/media/love_it.png": "/anketa/static/media/love_it.86a747f161ceb69f0328.png",
+    "index.html": "/anketa/index.html",
+    "main.f855e6bc.css.map": "/anketa/static/css/main.f855e6bc.css.map",
+    "main.2e364b9d.js.map": "/anketa/static/js/main.2e364b9d.js.map",
+    "453.a1174531.chunk.js.map": "/anketa/static/js/453.a1174531.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2e364b9d.js"
+  ]
+}
