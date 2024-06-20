@@ -1,29 +1,29 @@
-import { type } from "@testing-library/user-event/dist/type";
+import { type } from '@testing-library/user-event/dist/type';
 
 export const satisfaction = [
   {
     id: 1,
-    title: "Може и по-добре!",
-    type: "notSatisfied",
+    title: 'Не става',
+    type: 'notSatisfied',
   },
   {
     id: 2,
-    title: "Мдааа...",
-    type: "meh",
+    title: 'Става',
+    type: 'meh',
   },
   {
     id: 3,
-    title: "Средно доволен!",
-    type: "mediumSatisfied",
+    title: 'Средно',
+    type: 'mediumSatisfied',
   },
   {
     id: 4,
-    title: "Доволен!",
-    type: "satisfied",
+    title: 'Добре',
+    type: 'satisfied',
   },
   {
     id: 5,
-    title: "Обожавам го!",
-    type: "loveIt",
+    title: 'Обожавам',
+    type: 'loveIt',
   },
 ];
